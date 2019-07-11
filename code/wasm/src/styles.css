@@ -1,0 +1,10 @@
+#pre-magicked, #post-magicked {
+	display: block;
+	margin: 15px auto;
+	max-height: 500px;
+}
+
+canvas, video {
+	display:none
+}
+

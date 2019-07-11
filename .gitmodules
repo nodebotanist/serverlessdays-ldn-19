@@ -1,0 +1,3 @@
+[submodule "code/LED-Workers-Workshop"]
+	path = code/LED-Workers-Workshop
+	url = https://github.com/nodebotanist/LED-Workers-Workshop
